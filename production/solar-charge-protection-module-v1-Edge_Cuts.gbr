@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-02-22T02:47:27+03:00*%
+%TF.ProjectId,solar-charge-protection-module-v1,736f6c61-722d-4636-9861-7267652d7072,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-02-22 02:47:27*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X99750000Y-70000000D02*
+X196250000Y-70000000D01*
+X196250000Y-113000000D01*
+X99750000Y-113000000D01*
+X99750000Y-70000000D01*
+M02*

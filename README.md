@@ -17,6 +17,7 @@ Prior to physical PCB layout, the electrical limits of the circuit were strictly
 * **Dynamic Response:** Verified the zero-current state of the Zener diode when system voltage is within safe limits (<15V).
 
 <img width="1918" height="821" alt="1" src="https://github.com/user-attachments/assets/1e014473-4a85-4711-80ed-7dbfced5291c" />
+
 * **Red Trace `V(n001)`:** Solar Panel Input Voltage (surging to ~18V).
 * **Blue Trace `V(n002)`:** Node/Battery Voltage (safely clamped at the 15V limit).
 * **Green Trace `-I(D2)`:** Zener Diode Shunt Current (activating only when input > 15V, limited to safe levels by R1).
